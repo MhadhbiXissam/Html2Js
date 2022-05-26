@@ -9,6 +9,7 @@
 	  	print(html2js(html,root = "document.body"))
     
 ___
+result 
     	var itm_139927509068160 = document.createElement("div");
     	itm_139927509068160.setAttribute("style","margin-top:-20px; letter-spacing:3px;font-size:45px");
     	itm_139927509068160.classList.add("sfbg");
