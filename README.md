@@ -4,7 +4,7 @@
 
 # Usage :  
 ## Example
-	from  Html2Js import  htmljson
+	from  Html2js import  html2js
 	html  = """<div style="margin-top:-20px; letter-spacing:3px;font-size:45px" class="sfbg">ISSAM</div>"""
 	print(html2js(html,root = "document.body"))
     
