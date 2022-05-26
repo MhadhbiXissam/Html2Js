@@ -4,9 +4,9 @@
 
 # Usage :  
 ## Example
-		from  Html2Js import  htmljson
-  		html  = """<div style="margin-top:-20px; letter-spacing:3px;font-size:45px" class="sfbg">ISSAM</div>"""
-	  	print(html2js(html,root = "document.body"))
+	from  Html2Js import  htmljson
+	html  = """<div style="margin-top:-20px; letter-spacing:3px;font-size:45px" class="sfbg">ISSAM</div>"""
+	print(html2js(html,root = "document.body"))
     
 ___
 
