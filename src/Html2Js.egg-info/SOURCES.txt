@@ -1,9 +1,0 @@
-setup.cfg
-setup.py
-src/Html2Js/Html2Js.py
-src/Html2Js/__init__.py
-src/Html2Js.egg-info/PKG-INFO
-src/Html2Js.egg-info/SOURCES.txt
-src/Html2Js.egg-info/dependency_links.txt
-src/Html2Js.egg-info/requires.txt
-src/Html2Js.egg-info/top_level.txt
