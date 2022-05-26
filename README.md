@@ -5,7 +5,7 @@
 # Usage :  
 		from  Html2Js import  htmljson
   		html  = """<div style="margin-top:-20px; letter-spacing:3px;font-size:45px" class="sfbg">ISSAM</div>"""
-	  	print(html2js(html,"document.body"))
+	  	print(html2js(html,root = "document.body"))
     
   ## code output  : 
     	var itm_139927509068160 = document.createElement("div");
